@@ -23,6 +23,6 @@ Here you can find my image [image](blume.jpeg)
 
 ## tables
 | HTML | CSS |
-| ---- | --- |
+| ----: | :--- |
 | 4weeks | 6weeks |
 | easy | normal | 

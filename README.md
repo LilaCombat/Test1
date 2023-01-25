@@ -2,6 +2,6 @@
 More information about this project [here] (https://www.google.de/)
 
 ## Image
-![blume](blume.jpg)
+![blume](blume.jpeg)
 
-Here you can find my image [image](blume.jpg)
+Here you can find my image [image](blume.jpeg)

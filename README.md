@@ -15,7 +15,7 @@ Here you can find my image [image](blume.jpeg)
 2x space _ untereinander
 
 ## Checkboxes 
-- [X]Git and Github
-- [ ]CSS
+- [X] Git and Github
+- [ ] CSS
 - [ ] HTML
 - [X] JavaScript

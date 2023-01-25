@@ -8,6 +8,7 @@ Here you can find my image [image](blume.jpeg)
 
 ## emojis 
 :smile:  
-:book:
-:sun:
+:book:  
+:sun:  
+🥑
 
